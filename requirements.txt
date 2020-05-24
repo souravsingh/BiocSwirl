@@ -1,5 +1,13 @@
 pandas
 numpy
+seaborn
 sklearn
 pytest
+rpy2
+
+jupyterlab
+jupyter_nbextensions_configurator
+jupyter_contrib_nbextensions
+
+autopep8
 

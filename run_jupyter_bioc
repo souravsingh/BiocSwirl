@@ -1,0 +1,1 @@
+~/BiocSwirl/.virtualenvs/biocswirl/bin/python ~/BiocSwirl/.virtualenvs/biocswirl/bin/jupyter-notebook --no-browser --ip 127.0.0.1 --port 8889 --port-retries=0 --NotebookApp.iopub_data_rate_limit=1.0e10
